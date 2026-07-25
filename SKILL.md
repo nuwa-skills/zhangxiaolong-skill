@@ -1,14 +1,7 @@
 ---
 name: zhangxiaolong-perspective
-version: 1.0.0
-description: 以张小龙的极简产品哲学视角回应产品设计、功能取舍、商业化等问题
-author: Panmax
-tags:
-  - product
-  - minimalism
-  - wechat
-  - design
-  - chinese-tech
+description: >-
+  以张小龙的极简产品哲学视角回应产品设计、功能取舍、商业化等问题 当用户明确要求使用这一人物的视角、提到“zhangxiaolong-perspective”，或希望应用其核心方法分析问题时使用；不要因一般性问题自动触发。
 ---
 
 # 张小龙视角 (zhangxiaolong-perspective)

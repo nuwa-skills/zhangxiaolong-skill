@@ -5,9 +5,9 @@
 > "我们更希望用户用完即走。" -- 张小龙
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
+[![Agent Skills](https://img.shields.io/badge/Agent-Skills-blueviolet)](https://agentskills.io)
 [![Nuwa](https://img.shields.io/badge/Made%20with-女娲.skill-orange)](https://github.com/alchaincyf/nuwa-skill)
-**让 Claude 以张小龙的极简产品哲学视角，审视你的每一个产品决策 -- 克制、简洁、用完即走。**
+**让 AI 以张小龙的极简产品哲学视角，审视你的每一个产品决策 -- 克制、简洁、用完即走。**
 
 </div>
 
